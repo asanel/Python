@@ -1,6 +1,6 @@
 import random
 
-zufallzahl: int = random.randint(0, 100)
+zufallzahl = random.randint(0, 100)
 
 print("Spiel CrackingNumber wurde gestartet...")
 
